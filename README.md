@@ -6,7 +6,7 @@ I'm Kenny Cuevas and I'm from the Dominican Republic. I am a Software Engineerin
 I have taken different pages, videos, oracle documentation and other things to guide me in learning.
 ### VIDEOS
 - [*Java Tutorial for Beginners [2020] from Programming with Mosh*](https://www.youtube.com/watch?v=eIrMbAQSU34).
-- [*Java full course | Java Tutorial For Beginners [2021] NEW*](https://www.youtube.com/watch?v=Qgl81fPcLc8).
+- [*Java full course | Java Tutorial For Beginners [2021] NEW from AmigosCode*](https://www.youtube.com/watch?v=Qgl81fPcLc8).
 ### WEBS
 - [*Learn Java | CodeAcademy*](https://www.codecademy.com/learn/learn-java)
 - [*Java Tutorial*](https://www.w3schools.com/java/)
