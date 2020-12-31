@@ -19,12 +19,34 @@ public class message {
         int[] testReverse = {800462};
         Arrays.sort(testReverse);
         System.out.println(Arrays.toString(testReverse));
-*/
+
         NumberFormat percent = NumberFormat.getPercentInstance();
 
         String result = percent.format(0.2);
 
         System.out.println(result);
+*/
+        int x, y;
 
+        x = 10;
+        y = 15;
+/*
+        while (x > y){
+            System.out.println("Ejecuto de una vez");
+            break;
+        }
+
+        System.out.println(x);*/
+        int suma;
+        do {
+
+            suma = x + y;
+            System.out.println("Hola mundo");
+            break;
+        }while (suma < 30);
+
+        System.out.println(suma);
     }
+
+
 }
